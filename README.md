@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-##output
+## output
 
 ![image](https://user-images.githubusercontent.com/69243648/163052982-88a0a9e6-c2c6-4944-ac30-0c7704ba99ee.png)
 
